@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xD0B1055bFa5Bd51dF851e52B425BDfa1D9B0AA24",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xd0b1055bfa5bd51df851e52b425bdfa1d9b0aa24",
+  "NETWORK": {
+    "NAME": "Rikenby",
+    "SYMBOL": "RikenbyETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Fox Bit",
+  "SYMBOL": "FXBT",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "DISPLAY_FREE_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/foxbitev3",
+  "SHOW_BACKGROUND": true
+}
